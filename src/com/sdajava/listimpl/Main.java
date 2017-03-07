@@ -10,5 +10,8 @@ public class Main {
         lista.addElement("drugi test");
         lista.addElement("Kolejny test");
 
+        lista.showList();
+        System.out.println("Rozmiar listy: " + lista.size());
+
     }
 }
